@@ -32,7 +32,7 @@
   "homepage": "https://github.com/rubenCodeforges/angular2-google-api#readme",
   "dependencies": {
     "@types/gapi": "0.0.31",
-    "@types/gapi.auth2": "0.0.35"
+    "@types/gapi.auth2": "0.0.39"
   },
   "devDependencies": {
     "@angular/core": "^4.1.1",
